@@ -1,4 +1,4 @@
-<h1> Sketchub </h1>
+# Sketchub
 
 ### For Beta testers of https://sketchub.in
 
